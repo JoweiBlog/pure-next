@@ -6,7 +6,7 @@ export default function HomePage() {
       <p className="text-center text-xl font-medium">
         Next.js App Router 已准备就绪 ·{' '}
         <Link className="underline underline-offset-4" href="/demo">
-          查看 Demo jowei-1-1
+          查看 Demo
         </Link>
       </p>
     </main>
